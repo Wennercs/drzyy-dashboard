@@ -1,0 +1,10 @@
+
+body{font-family:Arial;margin:0;background:#111;color:#fff}
+.container{padding:20px}
+.card{background:#1e1e1e;padding:12px;border-radius:8px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+table{width:100%;border-collapse:collapse;margin-top:12px}
+td,th{border:1px solid #333;padding:8px}
+.drawer{position:fixed;right:0;top:0;width:350px;height:100%;background:#222;padding:16px;overflow:auto}
+input{margin:4px;padding:8px}
+button{padding:8px}
